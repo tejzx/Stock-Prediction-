@@ -1,16 +1,5 @@
 # Stock-Prediction-
-This ML model demonstrates the stock prediction of  Google between 2013 to 2023. 
- Outputs:
-![Screenshot (235)](https://github.com/user-attachments/assets/73102222-d3d3-4202-ab7b-a584b99cd9c7)
-![Screenshot (231)](https://github.com/user-attachments/assets/2a45d61a-261b-4267-ace0-84edc4eb73ac)
-![Screenshot (237)](https://github.com/user-attachments/assets/e1afe4e4-ccd5-4a4e-8fba-f562767396b1)
-![Screenshot (236)](https://github.com/user-attachments/assets/1d764d1d-0854-4e9c-bba9-74aecdd5e3a5)
-![Screenshot (234)](https://github.com/user-attachments/assets/cc4567b2-3d27-47b2-b36d-80dd1470da80)
-![Screenshot (233)](https://github.com/user-attachments/assets/8f98460a-f778-4200-a254-1d2cb13f37fd)
-![Screenshot (232)](https://github.com/user-attachments/assets/b301aee4-997e-489f-8b07-148fffd65f63)
-![Screenshot (230)](https://github.com/user-attachments/assets/56639d7c-c567-4a05-931b-e6c9de5ed69d)
-![Screenshot (229)](https://github.com/user-attachments/assets/49360f77-8e3f-48e0-9d96-343f7015e068)
-![Screenshot (228)](https://github.com/user-attachments/assets/a6582c7e-76e6-4467-ac89-5b7c36bbb715)
+ This ML model demonstrates the stock prediction of  Google between 2013 to 2023. 
 
  Libraries like numpy, pandas, matplotlib, and yfinance are imported for data processing, visualization, and  costing stock 
  data. 
