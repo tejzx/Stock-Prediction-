@@ -1,6 +1,6 @@
 # Stock-Prediction-
- This ML model demonstrates the stock prediction of  Google between 2013 to 2023. 
-
+ This ML model demonstrates the stock prediction of  Google between 2013 to 2023. The code is in Python and has been 
+ performed using the JupyterLab.
  Libraries like numpy, pandas, matplotlib, and yfinance are imported for data processing, visualization, and  costing stock 
  data. 
  The scikit- learn library is used for data scaling(  latterly in the script). 
